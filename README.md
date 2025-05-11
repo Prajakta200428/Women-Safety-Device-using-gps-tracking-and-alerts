@@ -27,10 +27,21 @@ As SOS button (input)
 PCB Board 
 
 💻 Software Stack<br>
-Arduino IDE – Firmware development
-AT Commands – Communication with A9G module
-EasyEDA – PCB design
-Proteus – Circuit simulation
-Git/GitHub – Version control
+Arduino IDE – Programming microcontroller<br>
+EasyEDA – PCB design and layout<br>
+Proteus – Simulation<br>
 
+**Advantages**:<br>
+Compact and Portable – Can be carried easily<br>
+Real-time GPS and Audio Support – Provides live location and environmental audio<br>
+Reliable Communication – Works on GSM network (2G) <br>
+Low Power Design – Battery-friendly and suitable for daily use<br>
+User-friendly – Single button operation for emergency activation<br>
+
+**Applications**:<br>
+Personal Safety for Women, Children, and Elderly<br>
+Emergency Communication in Isolated Areas<br>
+Tracking and Monitoring for Healthcare<br>
+Worker Safety in Hazardous Environments<br>
+Compact Alert System for Outdoor Activities<br>
 
