@@ -5,6 +5,13 @@
 🔧 **Project Overview**<br>
 This project is a portable women’s safety device that provides real-time location tracking, emergency SMS alerts, and voice calls during critical situations. Built using the Seeed Studio XIAO ESP32-C3 and Ai Thinker A9G module , it uses GSM networks for reliable communication.
 
+🧠 **How it works:** <br>
+The system uses the Seeed Studio XIAO ESP32-C3 microcontroller along with the Ai Thinker A9G module (combining GSM, GPS, and microphone) to provide:<br>
+SOS activation via a long-press button<br>
+Real-time GPS location sharing via SMS using Google Maps link<br>
+Emergency voice calls to predefined contacts<br>
+Low-power design for daily usability<br>
+
 ⚙️**Hardware** :<br>
 ESP32-C3 :Microcontroller for logic & interfacing<br>
 A9G Module :Integrated GSM, GPS, and audio<br>
