@@ -14,22 +14,30 @@ Slide Switch :Power ON/OFF control<br>
 Tactile Switches :As SOS button (input)<br>
 PCB Board 
 
-💻 Software Stack<br>
+💻 **Software**<br>
 Arduino IDE – Programming microcontroller<br>
 EasyEDA – PCB design and layout<br>
 Proteus – Simulation<br>
 
-**Advantages**:<br>
+📍**Advantages**:<br>
 Compact and Portable – Can be carried easily<br>
 Real-time GPS and Audio Support – Provides live location and environmental audio<br>
 Reliable Communication – Works on GSM network (2G) <br>
 Low Power Design – Battery-friendly and suitable for daily use<br>
 User-friendly – Single button operation for emergency activation<br>
 
-**Applications**:<br>
+📎**Applications**:<br>
 Personal Safety for Women, Children, and Elderly<br>
 Emergency Communication in Isolated Areas<br>
 Tracking and Monitoring for Healthcare<br>
 Worker Safety in Hazardous Environments<br>
 Compact Alert System for Outdoor Activities<br>
+
+🚀 **Future Enhancements**
+Add health sensors (heart rate, temperature)<br>
+Develop mobile app for live tracking<br>
+Cloud integration (Firebase/AWS)<br>
+AI-based threat detection using audio<br>
+Solar charging or energy harvesting<br>
+Upgrade to better GPS modules (u-blox)<br>
 
