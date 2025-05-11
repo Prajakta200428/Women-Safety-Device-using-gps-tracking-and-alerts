@@ -41,3 +41,9 @@ AI-based threat detection using audio<br>
 Solar charging or energy harvesting<br>
 Upgrade to better GPS modules (u-blox)<br>
 
+📚 **References**<br>
+[1] G. Tiwari et al., KAVACH – Women Safety Device , 2020<br>
+[2] S. Gaonkar et al., Emergency Tracking System , 2022<br>
+[3] S. Bandi et al., GPS-Based Self Protection System , 2020<br>
+[4] W. Akram et al., Smart Safety Device Using IoT , 2020<br>
+
