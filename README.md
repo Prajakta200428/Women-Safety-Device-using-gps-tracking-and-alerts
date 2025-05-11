@@ -28,7 +28,7 @@ Proteus – Simulation<br>
 
 📍**Advantages**:<br>
 Compact and Portable – Can be carried easily<br>
-Real-time GPS and Audio Support – Provides live location and environmental audio<br>
+Real-time GPS and Audio Support – Provides live location and audio call<br>
 Reliable Communication – Works on GSM network (2G) <br>
 Low Power Design – Battery-friendly and suitable for daily use<br>
 User-friendly – Single button operation for emergency activation<br>
